@@ -25,6 +25,13 @@ const rudra = {
 
 ---
 
+## ⚡ Live Activity
+
+<!--LIVE:START-->
+<!--LIVE:END-->
+
+---
+
 ## 🚀 Featured Projects
 
 ### Vision-V4 — Real-Time Offline Object Detection on Android
