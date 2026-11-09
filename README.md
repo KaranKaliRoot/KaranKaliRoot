@@ -108,19 +108,6 @@ An offline object-detection system that runs directly on Android with no cloud i
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc)
 ![Termux](https://img.shields.io/badge/Termux-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc)
 
-## 📊 GitHub Stats | 統計データ
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KaranKaliRoot&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranKaliRoot&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc" />
-
-<img src="https://streak-stats.demolab.com?user=KaranKaliRoot&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&currStreakNum=7dd3fc&sideNums=7dd3fc" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=KaranKaliRoot&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
 ## 📈 Contribution Activity | 貢献グラフ
 
 <div align="center">
