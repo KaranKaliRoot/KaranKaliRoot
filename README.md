@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=210&section=header&text=Rudra%20Bhardwaj%20%7C%20%E8%A8%80%E8%91%89&fontSize=44&fontColor=7dd3fc&desc=Computer%20Science%20%E2%80%A2%20Edge%20AI%20%E2%80%A2%20Android%20Developer%20%7C%20%E7%B6%99%E7%B6%9A%E3%81%AF%E5%8A%9B%E3%81%AA%E3%82%8A&descSize=18&descAlignY=68&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Kotoba+(%E8%A8%80%E8%91%89)+%E2%80%94+Offline+JLPT+N5%E2%80%93N1+Android+App;Offline+real-time+object+detection+on+Android+(30+FPS);Native+Android+(Kotlin+%26+Jetpack+Compose)+%2B+On-Device+AI;80%2B+independent+Python+projects;1311+GitHub+contributions+%7C+%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A)](https://github.com/KaranKaliRoot)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Kotoba+(%E8%A8%80%E8%91%89)+%E2%80%94+Offline+JLPT+N5%E2%80%93N1+Android+App;AKARI-1.5B+%E2%80%94+Custom+Japanese-Teaching+AI+Model;Offline+real-time+object+detection+on+Android+(30+FPS);Native+Android+(Kotlin+%26+Jetpack+Compose)+%2B+On-Device+AI;80%2B+independent+Python+projects;1311+GitHub+contributions+%7C+%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A)](https://github.com/KaranKaliRoot)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KaranKaliRoot&color=7dd3fc&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/KaranKaliRoot?style=flat-square&color=7dd3fc&labelColor=0f172a&label=Followers)
@@ -26,6 +26,7 @@ const rudra = {
   ],
   launchedProjects: [
     "Kotoba (言葉) — Offline JLPT N5–N1 Android App",
+    "AKARI-1.5B — Custom AI Model That Teaches Japanese",
     "Vision-V4 — 30 FPS Real-Time Android Object Detection",
     "80+ Independent Python Projects"
   ],
@@ -58,7 +59,21 @@ A 100% offline, native Android application built with **Kotlin** and **Jetpack C
 
 [💻 Source Code (`KaranKaliRoot/Kotoba-japanese-`)](https://github.com/KaranKaliRoot/Kotoba-japanese-)
 
-### 2. Vision-V4 — Real-Time Offline Object Detection on Android
+### 2. AKARI-1.5B — Custom AI Model That Teaches Japanese
+
+[![AKARI-1.5B](https://github-readme-stats.vercel.app/api/pin/?username=KaranKaliRoot&repo=AKARI-1.5B&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc)](https://github.com/KaranKaliRoot/AKARI-1.5B)
+
+My own AI model built to teach Japanese, released as a GGUF file and published on GitHub.
+
+| Layer | Technology |
+| :--- | :--- |
+| **Domain** | Japanese Language Learning, Conversational AI |
+| **Model Format** | GGUF (tracked with Git LFS) |
+| **Tooling** | Python (data seeding, migration & verification scripts) |
+
+[💻 Source Code (`KaranKaliRoot/AKARI-1.5B`)](https://github.com/KaranKaliRoot/AKARI-1.5B)
+
+### 3. Vision-V4 — Real-Time Offline Object Detection on Android
 
 [![Vision-V4](https://github-readme-stats.vercel.app/api/pin/?username=KaranKaliRoot&repo=VisionV4&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc)](https://github.com/KaranKaliRoot/VisionV4)
 
@@ -92,6 +107,19 @@ An offline object-detection system that runs directly on Android with no cloud i
 ![NCNN](https://img.shields.io/badge/NCNN-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc)
 ![Termux](https://img.shields.io/badge/Termux-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc)
+
+## 📊 GitHub Stats | 統計データ
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KaranKaliRoot&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranKaliRoot&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc" />
+
+<img src="https://streak-stats.demolab.com?user=KaranKaliRoot&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&currStreakNum=7dd3fc&sideNums=7dd3fc" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=KaranKaliRoot&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
+
+</div>
 
 ## 📈 Contribution Activity | 貢献グラフ
 
