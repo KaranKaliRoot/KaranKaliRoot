@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KaranKaliRoot&color=7dd3fc&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/KaranKaliRoot?style=flat-square&color=7dd3fc&labelColor=0f172a&label=Followers)
-![Contributions](https://img.shields.io/badge/Contributions-1311-7dd3fc?style=flat-square&labelColor=0f172a)
+
 ![JLPT Badge](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-JLPT%20N4%20%E2%86%92%20N3-7dd3fc?style=flat-square&labelColor=0f172a)
 
 *「 継続は力なり 」 — Continuity is strength • Architecting offline-first Android apps & on-device AI*
