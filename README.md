@@ -118,7 +118,23 @@ An Android application, published on GitHub.
 
 <img src="assets/sec-tech.svg" alt="Tech Stack | 技術スタック" width="100%">
 
-<a href="https://github.com/KaranKaliRoot"><img src="assets/tech.svg" alt="Python, Kotlin, C++, JavaScript, HTML · Android Studio, Gradle, SQLite, Linux, CMake, Git, GitHub · Jetpack Compose, Room SQLite, Jetpack Glance, YOLO, NCNN, llama.cpp, Termux" width="100%"></a>
+**Languages | プログラミング言語**
+
+[![Languages](https://skillicons.dev/icons?i=py,kotlin,cpp,js,html&theme=dark)](https://github.com/KaranKaliRoot)
+
+**Android, Backend & Systems | システム・基盤**
+
+[![Infra](https://skillicons.dev/icons?i=androidstudio,gradle,sqlite,linux,cmake,git,github&theme=dark)](https://github.com/KaranKaliRoot)
+
+**Mobile & Edge AI Frameworks | フレームワーク・AI**
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-0f172a?style=for-the-badge&logo=jetpackcompose&logoColor=7dd3fc&labelColor=0f172a&color=7dd3fc)
+![Room SQLite](https://img.shields.io/badge/Room%20SQLite-0f172a?style=for-the-badge&logo=sqlite&logoColor=7dd3fc&labelColor=0f172a&color=7dd3fc)
+![Jetpack Glance](https://img.shields.io/badge/Jetpack%20Glance-0f172a?style=for-the-badge&logo=android&logoColor=7dd3fc&labelColor=0f172a&color=7dd3fc)
+![YOLO](https://img.shields.io/badge/YOLO-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc&logoColor=7dd3fc)
+![NCNN](https://img.shields.io/badge/NCNN-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc)
+![Termux](https://img.shields.io/badge/Termux-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc)
 
 <img src="assets/divider.svg" alt="" width="100%">
 
