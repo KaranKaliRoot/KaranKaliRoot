@@ -27,7 +27,7 @@ const rudra = {
     "Kotoba (言葉) — Offline JLPT N5–N1 Android App",
     "AKARI-1.5B — Custom AI Model That Teaches Japanese",
     "Vision-V4 — 30 FPS Real-Time Android Object Detection",
-    "InkTwin — Android Application that turns computerized text to user's own handwriting",
+    "InkTwin — turns computerized text to user's own handwriting",
     "80+ Independent Python Projects"
   ],
   humanLanguages: ["English", "Hindi", "日本語 (JLPT N4)"],
@@ -104,7 +104,7 @@ An offline object-detection system that runs directly on Android with no cloud i
 
 <div align="center">
 
-<a href="https://github.com/KaranKaliRoot/InkTwin"><img src="assets/card-inktwin.svg" alt="InkTwin — Android Application" width="100%"></a>
+<a href="https://github.com/KaranKaliRoot/InkTwin"><img src="assets/card-inktwin.svg" alt="InkTwin — Android Application that turns conputerized text to user's handwriting" width="100%"></a>
 
 </div>
 
