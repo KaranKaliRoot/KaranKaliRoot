@@ -27,7 +27,7 @@ const rudra = {
     "Kotoba (言葉) — Offline JLPT N5–N1 Android App",
     "AKARI-1.5B — Custom AI Model That Teaches Japanese",
     "Vision-V4 — 30 FPS Real-Time Android Object Detection",
-    "InkTwin — Android Application",
+    "InkTwin — Android Application that turns computerized text to user's own handwriting",
     "80+ Independent Python Projects"
   ],
   humanLanguages: ["English", "Hindi", "日本語 (JLPT N4)"],
