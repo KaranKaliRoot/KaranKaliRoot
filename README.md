@@ -1,19 +1,18 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=210&section=header&text=Rudra%20Bhardwaj%20%7C%20%E8%A8%80%E8%91%89&fontSize=44&fontColor=7dd3fc&desc=Computer%20Science%20%E2%80%A2%20Edge%20AI%20%E2%80%A2%20Android%20Developer%20%7C%20%E7%B6%99%E7%B6%9A%E3%81%AF%E5%8A%9B%E3%81%AA%E3%82%8A&descSize=18&descAlignY=68&animation=twinkling)
+<img src="assets/header.svg" alt="Rudra Bhardwaj | 言葉 — Computer Science • Edge AI • Android Developer" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Kotoba+(%E8%A8%80%E8%91%89)+%E2%80%94+Offline+JLPT+N5%E2%80%93N1+Android+App;AKARI-1.5B+%E2%80%94+Custom+Japanese-Teaching+AI+Model;Offline+real-time+object+detection+on+Android+(30+FPS);Native+Android+(Kotlin+%26+Jetpack+Compose)+%2B+On-Device+AI;80%2B+independent+Python+projects;1311+GitHub+contributions+%7C+%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A)](https://github.com/KaranKaliRoot)
+<img src="assets/typing.svg" alt="Kotoba · AKARI-1.5B · Offline object detection · Native Android · 80+ Python projects" width="100%">
 
-![Profile Views](https://komarev.com/ghpvc/?username=KaranKaliRoot&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/KaranKaliRoot?style=flat-square&color=7dd3fc&labelColor=0f172a&label=Followers)
-
-![JLPT Badge](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-JLPT%20N4%20%E2%86%92%20N3-7dd3fc?style=flat-square&labelColor=0f172a)
+![Profile Views](https://komarev.com/ghpvc/?username=KaranKaliRoot&color=f4a7b9&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/KaranKaliRoot?style=flat-square&color=f4a7b9&labelColor=1b2044&label=Followers)
+![JLPT Badge](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-JLPT%20N4%20%E2%86%92%20N3-e2434b?style=flat-square&labelColor=1b2044)
 
 *「 継続は力なり 」 — Continuity is strength • Architecting offline-first Android apps & on-device AI*
 
-</div>
+<img src="assets/sec-who.svg" alt="Who I Am | 自己紹介" width="100%">
 
-## ⛩️ Who I Am | 自己紹介
+</div>
 
 ```typescript
 const rudra = {
@@ -28,6 +27,7 @@ const rudra = {
     "Kotoba (言葉) — Offline JLPT N5–N1 Android App",
     "AKARI-1.5B — Custom AI Model That Teaches Japanese",
     "Vision-V4 — 30 FPS Real-Time Android Object Detection",
+    "InkTwin — Android Application",
     "80+ Independent Python Projects"
   ],
   humanLanguages: ["English", "Hindi", "日本語 (JLPT N4)"],
@@ -36,16 +36,26 @@ const rudra = {
 };
 ```
 
-## ⚡ Live Activity | 最近の活動
+<div align="center">
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+<img src="assets/sec-live.svg" alt="Live Activity | 最近の活動" width="100%">
+
+</div>
 
 <!--LIVE:START-->
 <!--LIVE:END-->
 
-## 🏮 Featured Projects | 代表作
+<div align="center">
 
-### 1. Kotoba (言葉) — Offline JLPT N5–N1 Japanese Learning Android App
+<img src="assets/divider.svg" alt="" width="100%">
 
-[![Kotoba](https://github-readme-stats.vercel.app/api/pin/?username=KaranKaliRoot&repo=Kotoba-japanese-&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc)](https://github.com/KaranKaliRoot/Kotoba-japanese-)
+<img src="assets/sec-projects.svg" alt="Featured Projects | 代表作" width="100%">
+
+<a href="https://github.com/KaranKaliRoot/Kotoba-japanese-"><img src="assets/card-kotoba.svg" alt="Kotoba (言葉) — Offline JLPT N5–N1 Japanese Learning Android App" width="100%"></a>
+
+</div>
 
 A 100% offline, native Android application built with **Kotlin** and **Jetpack Compose** covering **JLPT N5 through N1**. Designed around the structured study philosophy of *Nihongo Sou Matome* and *Shin Kanzen Master* with an editorial Japanese *Kinari* aesthetic and bento-grid dashboard.
 
@@ -59,9 +69,11 @@ A 100% offline, native Android application built with **Kotlin** and **Jetpack C
 
 [💻 Source Code (`KaranKaliRoot/Kotoba-japanese-`)](https://github.com/KaranKaliRoot/Kotoba-japanese-)
 
-### 2. AKARI-1.5B — Custom AI Model That Teaches Japanese
+<div align="center">
 
-[![AKARI-1.5B](https://github-readme-stats.vercel.app/api/pin/?username=KaranKaliRoot&repo=AKARI-1.5B&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc)](https://github.com/KaranKaliRoot/AKARI-1.5B)
+<a href="https://github.com/KaranKaliRoot/AKARI-1.5B"><img src="assets/card-akari.svg" alt="AKARI-1.5B — Custom AI Model That Teaches Japanese" width="100%"></a>
+
+</div>
 
 My own AI model built to teach Japanese, released as a GGUF file and published on GitHub.
 
@@ -73,9 +85,11 @@ My own AI model built to teach Japanese, released as a GGUF file and published o
 
 [💻 Source Code (`KaranKaliRoot/AKARI-1.5B`)](https://github.com/KaranKaliRoot/AKARI-1.5B)
 
-### 3. Vision-V4 — Real-Time Offline Object Detection on Android
+<div align="center">
 
-[![Vision-V4](https://github-readme-stats.vercel.app/api/pin/?username=KaranKaliRoot&repo=VisionV4&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc)](https://github.com/KaranKaliRoot/VisionV4)
+<a href="https://github.com/KaranKaliRoot/VisionV4"><img src="assets/card-vision.svg" alt="Vision-V4 — Real-Time Offline Object Detection on Android" width="100%"></a>
+
+</div>
 
 An offline object-detection system that runs directly on Android with no cloud inference. It uses an optimized NCNN pipeline to detect objects from a live camera feed at up to 30 FPS.
 
@@ -88,43 +102,31 @@ An offline object-detection system that runs directly on Android with no cloud i
 
 [💻 Source Code (`KaranKaliRoot/VisionV4`)](https://github.com/KaranKaliRoot/VisionV4)
 
-## 🗡️ Tech Stack | 技術スタック
-
-**Languages | プログラミング言語**
-
-[![Languages](https://skillicons.dev/icons?i=py,kotlin,cpp,js,html&theme=dark)](https://github.com/KaranKaliRoot)
-
-**Android, Backend & Systems | システム・基盤**
-
-[![Infra](https://skillicons.dev/icons?i=androidstudio,gradle,sqlite,linux,cmake,git,github&theme=dark)](https://github.com/KaranKaliRoot)
-
-**Mobile & Edge AI Frameworks | フレームワーク・AI**
-
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-0f172a?style=for-the-badge&logo=jetpackcompose&logoColor=7dd3fc&labelColor=0f172a&color=7dd3fc)
-![Room SQLite](https://img.shields.io/badge/Room%20SQLite-0f172a?style=for-the-badge&logo=sqlite&logoColor=7dd3fc&labelColor=0f172a&color=7dd3fc)
-![Jetpack Glance](https://img.shields.io/badge/Jetpack%20Glance-0f172a?style=for-the-badge&logo=android&logoColor=7dd3fc&labelColor=0f172a&color=7dd3fc)
-![YOLO](https://img.shields.io/badge/YOLO-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc&logoColor=7dd3fc)
-![NCNN](https://img.shields.io/badge/NCNN-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc)
-![Termux](https://img.shields.io/badge/Termux-0f172a?style=for-the-badge&labelColor=0f172a&color=7dd3fc)
-
-## 📈 Contribution Activity | 貢献グラフ
-
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaranKaliRoot&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true&bg_color=0f172a)
+<a href="https://github.com/KaranKaliRoot/InkTwin"><img src="assets/card-inktwin.svg" alt="InkTwin — Android Application" width="100%"></a>
 
 </div>
 
-## 📫 Connect | 連絡先
+An Android application, published on GitHub.
+
+[💻 Source Code (`KaranKaliRoot/InkTwin`)](https://github.com/KaranKaliRoot/InkTwin)
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-rudrabhardwaj068%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=7dd3fc&labelColor=0f172a&color=7dd3fc)](mailto:rudrabhardwaj068@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-KaranKaliRoot-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=0f172a&color=7dd3fc)](https://github.com/KaranKaliRoot)
+<img src="assets/divider.svg" alt="" width="100%">
 
-*「 今日も一歩ずつ 」 — One step at a time, every day.*
+<img src="assets/sec-tech.svg" alt="Tech Stack | 技術スタック" width="100%">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=120&section=footer&animation=twinkling)
+<a href="https://github.com/KaranKaliRoot"><img src="assets/tech.svg" alt="Python, Kotlin, C++, JavaScript, HTML · Android Studio, Gradle, SQLite, Linux, CMake, Git, GitHub · Jetpack Compose, Room SQLite, Jetpack Glance, YOLO, NCNN, llama.cpp, Termux" width="100%"></a>
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+<img src="assets/sec-connect.svg" alt="Connect | 連絡先" width="100%">
+
+<a href="mailto:rudrabhardwaj068@gmail.com"><img src="assets/btn-email.svg" alt="Email: rudrabhardwaj068@gmail.com" width="400"></a>
+<a href="https://github.com/KaranKaliRoot"><img src="assets/btn-github.svg" alt="GitHub: KaranKaliRoot" width="400"></a>
+
+<img src="assets/footer.svg" alt="今日も一歩ずつ — One step at a time, every day." width="100%">
 
 </div>

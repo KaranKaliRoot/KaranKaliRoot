@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="44" viewBox="0 0 1000 44" role="img"><title>divider</title>
+<defs>
+<linearGradient id="pg" x1="0" y1="1" x2="0" y2="0">
+  <stop offset="0" stop-color="#f58fab"/><stop offset="0.55" stop-color="#ffc3d3"/><stop offset="1" stop-color="#fff1f5"/>
+</linearGradient>
+<path id="petal" d="M0,10 C-10,4 -12,-8 -4,-12 C-2,-10 -1,-9 0,-8 C1,-9 2,-10 4,-12 C12,-8 10,4 0,10Z" fill="url(#pg)"/>
+<g id="flower">
+  <g><use href="#petal" transform="rotate(0) translate(0,-10)"/><use href="#petal" transform="rotate(72) translate(0,-10)"/><use href="#petal" transform="rotate(144) translate(0,-10)"/><use href="#petal" transform="rotate(216) translate(0,-10)"/><use href="#petal" transform="rotate(288) translate(0,-10)"/></g>
+  <g stroke="#f08aa6" stroke-width="0.7" stroke-linecap="round"><line x1="0" y1="0" x2="7.0" y2="0.0"/><line x1="0" y1="0" x2="4.9" y2="4.9"/><line x1="0" y1="0" x2="0.0" y2="7.0"/><line x1="0" y1="0" x2="-4.9" y2="4.9"/><line x1="0" y1="0" x2="-7.0" y2="0.0"/><line x1="0" y1="0" x2="-4.9" y2="-4.9"/><line x1="0" y1="0" x2="-0.0" y2="-7.0"/><line x1="0" y1="0" x2="4.9" y2="-4.9"/></g>
+  <circle r="3" fill="#ffd36e"/>
+</g>
+<linearGradient id="l1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d8b36a" stop-opacity="0"/><stop offset="1" stop-color="#d8b36a"/></linearGradient><linearGradient id="l2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d8b36a"/><stop offset="1" stop-color="#d8b36a" stop-opacity="0"/></linearGradient></defs>
+<rect x="120" y="21" width="340" height="1.6" fill="url(#l1)"/><rect x="540" y="21" width="340" height="1.6" fill="url(#l2)"/>
+<rect x="466" y="18" width="8" height="8" fill="#e2434b" transform="rotate(45 470 22)"/>
+<rect x="526" y="18" width="8" height="8" fill="#e2434b" transform="rotate(45 530 22)"/>
+<g transform="translate(500,22)"><use href="#flower" transform="scale(0.95)"><animateTransform attributeName="transform" type="rotate" additive="sum" from="0" to="360" dur="40s" repeatCount="indefinite"/></use></g>
+</svg>
